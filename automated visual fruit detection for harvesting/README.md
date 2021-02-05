@@ -5,7 +5,7 @@ This project is intended to help the farmers save their effort by making their w
 The fundamental control system uses a camera module which detects the fruit from the surrounding. It then captures images and relays it over to the software. The software (computer vision algorithm) is designed to detect whether the particular fruit is ripe or not based on experimental data. If the fruit is ripe it sends over a signal to the robotic arm which then plucks the fruit.
 This system is designed to help the farmers by easing their work and helping them by taking a small burden off their shoulders.
 
-This repository showcases the computer vision part of the project which is currently still under development. I have decided to approach the project with 2 methods. Method 1 dealing with image processing and method 2 dealing with neural networks, object detection algorithms with a little bit of pre and post processing applied in method 1.
+This repository showcases the computer vision part of the project which is currently under development. I have decided to approach the project with 2 methods. Method 1 dealing with image processing and method 2 dealing with neural networks, object detection algorithms with a little bit of pre and post processing applied in method 1.
 
 
 
