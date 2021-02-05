@@ -35,7 +35,7 @@ ongoing
 
 ## Deployment
 
-As I plan on implementing this on a robotic arm which can potentially be deployed on a farm so for the deployment part, the model will be quantized i.e make it smaller to fit on small device like Raspberry pi. Once the fruit that needs to be harvested is successfully detected, the Arduino will pass a signal to the robotic arm to pluck the fruit.
+As I plan on implementing this on a robotic arm which can potentially be deployed on a farm so for the deployment part, the model will be quantized i.e make it smaller to fit on small device like Raspberry pi. Once the fruit that needs to be harvested is successfully detected and classified as a 'Ripened fruit', the Arduino will pass a signal to the robotic arm to pluck the fruit.
 
 
 
