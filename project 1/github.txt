@@ -1,0 +1,1 @@
+ line 50, <img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=ritvik02&show_icons=true&hide_border=true" />
