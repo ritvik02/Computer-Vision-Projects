@@ -1,15 +1,20 @@
-# Computer-Vision-Projects
+# [Pneumonia detection](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson1/pneumonia_detection.ipynb)
 
-This is a repository of all the Computer Vision projects.
-Find the detailed explanations or codes for the projects in the respective folders or click on the project title to be directed to the folder.
+In this project, we use a pretrained model on a bunch of X-rays and try to predict whether the patient has Pneumonia or not.
 
-## [Automated Visual Fruit Detection for Harvesting](https://github.com/ritvik02/Computer-Vision-Projects/tree/main/automated%20visual%20fruit%20detection%20for%20harvesting) (Ongoing Research Project)
-Under development
+[Learn more about how pretrained models work.](https://becominghuman.ai/how-do-pretrained-models-work-11fe2f64eaa2)
+
+![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson1/images/image_4.png)
+
+**Future scope**: Use stanford's CheXpert dataset and predict multiple diseases from the dataset
+
+# [Mixed precision training](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson1/mixed-precision-on-pneumonia-using-fastai.ipynb)
+
+In neural nets, all the floats i.e. our inputs, weights and activations are stored using 32 bits. Using 32 bits gives us a high amount of precision. But higher precision also means more computation time and more memory required to store these variables. We can also do these computations in half (FP16) or mixed precision (both). Read the detailed explanation in [my article here](https://becominghuman.ai/mixed-precision-training-using-fastai-435145d3178b).
+
+Results show that we've reduced the training time without much decrease in accuracy
+
+![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson1/images/image_1.png)
 
 
-## [Lane Line Detection](https://github.com/ritvik02/Computer-Vision-Projects/tree/main/Lane%20Line%20Detection)
-
-
-## [Pneumonia Detection on Chest X-rays]
-
-
+![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson1/images/image_2.png)
