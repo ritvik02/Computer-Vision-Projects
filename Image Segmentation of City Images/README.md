@@ -1,20 +1,17 @@
-# [Pneumonia detection](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson1/pneumonia_detection.ipynb)
+# Image Segmentation of city Images
 
-In this project, we use a pretrained model on a bunch of X-rays and try to predict whether the patient has Pneumonia or not.
+Image segmentation is an application of computer vision wherein we color-code every pixel in an image. Each pixel then represents a particular object in that image.
+Image segmentation is usually used when we care about edges and regions, when we want to separate important objects from the background.
 
-[Learn more about how pretrained models work.](https://becominghuman.ai/how-do-pretrained-models-work-11fe2f64eaa2)
+## Process
+Treated image segmentation as a classification problem, where for every pixel in the image, we try to predict what it is. Is it a bicycle, road line, sidewalk, or a building? In this way we produce a color coded image where every object has the same color.
 
-![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson1/images/image_4.png)
+-	Executed by treating image segmentation as a classification problem by predicting what every pixel in the image is.
+-	Used the U-net architecture as they perform better than GANs on applications like generating high resolution images from blurry images, thus color coded every pixel of an image using U-net. A U-Net then takes this and makes it bigger and bigger again and it does this for every stage of the CNN. However, constructing an image from a small vector is a difficult job. Hence we have connections from the original convolution layers to our deconvolution network.
+-	Achieved an accuracy of 93.33%.
 
-**Future scope**: Use stanford's CheXpert dataset and predict multiple diseases from the dataset
-
-# [Mixed precision training](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson1/mixed-precision-on-pneumonia-using-fastai.ipynb)
-
-In neural nets, all the floats i.e. our inputs, weights and activations are stored using 32 bits. Using 32 bits gives us a high amount of precision. But higher precision also means more computation time and more memory required to store these variables. We can also do these computations in half (FP16) or mixed precision (both). Read the detailed explanation in [my article here](https://becominghuman.ai/mixed-precision-training-using-fastai-435145d3178b).
-
-Results show that we've reduced the training time without much decrease in accuracy
-
-![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson1/images/image_1.png)
+## Conclusion
+Learnt how to color code every pixel of an image using a U-net. U-nets are gaining popularity because they’ve performed better than GANs on applications like generating high resolution images from blurry images. Hence it will be really useful to know what they are and how to use them.
 
 
-![Sample image](https://github.com/dipam7/fastai/blob/master/deep_learning/course1/lesson1/images/image_2.png)
+
