@@ -15,3 +15,5 @@ Under Development
 -	Successfully reduced the training time without much compromise in model performance by switching to mixed 
 precision training and achieved an accuracy of 95.82 %.
 
+
+## [Image Segmentation of city Images](https://github.com/ritvik02/Computer-Vision-Projects/blob/main/Image%20Segmentation%20of%20City%20Images/README.md)
