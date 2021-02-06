@@ -19,6 +19,6 @@ The HSV format helps us to separate the background by their colour. Hence we wil
 
 
 ## Output
-Video Output can be found on the drive link
+Video Output can be found on the drive.
 https://drive.google.com/drive/folders/1oYMqZJwt6RKIKJIjZhkWiLY1qWE23n8m?usp=sharing
 
