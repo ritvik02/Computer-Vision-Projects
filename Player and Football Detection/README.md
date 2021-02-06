@@ -1,4 +1,4 @@
-# [Player and Football Detection]
+# Player and Football Detection
 Football as a sport alone is beautiful. It is like a blank canvas waiting to be filled by the players on the field. It is a stunning spectacle, where we see elegance and athleticism, coupled with skills and intelligence, all for the simple goal of putting the ball in the net. This is why it’s referred to as The Beautiful Game.
 Added to that, we see the beauty of time and relativity on display in the sport. 2 minutes become 10, and 10 minutes become 2, depending on the score. Finally the desire and urge to compete and win which the players display and the fans embody, makes for a great spectacle.
 For many centuries, the use of technology in football has been minimal, however seeing the advancements in the field of AI, one can already expect AI to be a very big part of Football.
