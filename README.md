@@ -10,3 +10,8 @@ Under Development
 
 
 ## [Pneumonia Detection on Chest X-rays](https://github.com/ritvik02/Computer-Vision-Projects/tree/main/Pneumonia%20Detection%20on%20Chest%20X-rays)
+-	Used the ResNet50 architecture to train a model for detecting pneumonia on medical images.
+-	Applied discriminative learning rates and achieved an accuracy of 96.33 % .
+-	Successfully reduced the training time without much compromise in model performance by switching to mixed 
+precision training and achieved an accuracy of 95.82 %.
+
