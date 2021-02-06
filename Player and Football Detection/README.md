@@ -10,7 +10,7 @@ Objective - implementation of player and football detection using OpenCV, maskin
 We use the France vs Belgium match clip as an example to perform player and football detection.
 
 ## Process
-- read the video frame by frame and convert them into HSV format.
+- Read the video frame by frame and convert them into HSV format.
 The HSV format helps us to separate the background by their colour. Hence we will be able to separate the pitch from the rest of the players and then detect the players. Also, after detecting the players we will be able to identify the national team they are playing by their jerseys. 
 - After specifying the ranges we first define a mask of green colour to detect the pitch.
 - Then performed morphological closing operations on these frames. The closing operation will fill out the noise which is present in the crowd. So false detection can be reduced.
