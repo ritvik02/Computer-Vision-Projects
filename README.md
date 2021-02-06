@@ -17,3 +17,6 @@ precision training and achieved an accuracy of 95.82 %.
 
 
 ## [Image Segmentation of city Images](https://github.com/ritvik02/Computer-Vision-Projects/blob/main/Image%20Segmentation%20of%20City%20Images/README.md)
+
+
+## [Player and Football Detection](https://github.com/ritvik02/Computer-Vision-Projects/tree/main/Player%20and%20Football%20Detection)
