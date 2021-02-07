@@ -2,6 +2,7 @@
 
 In this project, we try to predict the multiple labels associated with satellite images. This is important for tracking human activities in large regions of the Earth, and conserving bio diversity.
 
+![Sample image](https://github.com/ritvik02/Computer-Vision-Projects/blob/main/Multi%20label%20classification%20of%20satellite%20images/image_1.png)
 
 ## Process
 - In the first step, we apply a number of transforms to our images. Why do we transform our images? We do it in order to give more variety to our data set and help our model learn well. If we are designing a face detection algorithm, we can randomly flip some images horizontally to get a better data set.
