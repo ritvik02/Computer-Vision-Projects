@@ -1,6 +1,6 @@
 # Intel-Scene-Classification
 
-## Competition details
+## Details
 
 ![Sample image](https://github.com/ritvik02/Computer-Vision-Projects/blob/main/Intel%20Scene%20Classification/images/image_1.png)
 
