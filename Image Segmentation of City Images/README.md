@@ -3,6 +3,12 @@
 Image segmentation is an application of computer vision wherein we color-code every pixel in an image. Each pixel then represents a particular object in that image.
 Image segmentation is usually used when we care about edges and regions, when we want to separate important objects from the background.
 
+![Sample image](https://github.com/ritvik02/Computer-Vision-Projects/blob/main/Image%20Segmentation%20of%20City%20Images/image_3.png)
+
+Image segmentation has a lot of significance in the field of medicine. Parts that need to be studied are color coded and viewed in scans taken from different angles. They are then used for things like automatic measurement of organs, cell counting, or simulations based on the extracted boundary information.
+
+![Sample image](https://github.com/ritvik02/Computer-Vision-Projects/blob/main/Image%20Segmentation%20of%20City%20Images/image_2.png)
+
 ## Process
 Treated image segmentation as a classification problem, where for every pixel in the image, we try to predict what it is. Is it a bicycle, road line, sidewalk, or a building? In this way we produce a color coded image where every object has the same color.
 
