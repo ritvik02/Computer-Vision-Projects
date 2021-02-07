@@ -20,3 +20,6 @@ precision training and achieved an accuracy of 95.82 %.
 
 
 ## [Player and Football Detection](https://github.com/ritvik02/Computer-Vision-Projects/tree/main/Player%20and%20Football%20Detection)
+
+
+## [Multi – label Classification of Satellite Images](https://github.com/ritvik02/Computer-Vision-Projects/tree/main/Multi%20label%20classification%20of%20satellite%20images)
