@@ -23,3 +23,6 @@ precision training and achieved an accuracy of 95.82 %.
 
 
 ## [Multi – label Classification of Satellite Images](https://github.com/ritvik02/Computer-Vision-Projects/tree/main/Multi%20label%20classification%20of%20satellite%20images)
+
+
+## [Intel Scene Classification](https://github.com/ritvik02/Computer-Vision-Projects/tree/main/Intel%20Scene%20Classification)
