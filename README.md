@@ -25,3 +25,6 @@ precision training and achieved an accuracy of 95.82 %.
 
 
 ## [Intel Scene Classification](https://github.com/ritvik02/Computer-Vision-Projects/tree/main/Intel%20Scene%20Classification)
+
+
+## [Image Regression to predict the center of a person's face](https://github.com/ritvik02/Computer-Vision-Projects/tree/main/Image%20regression%20to%20predict%20the%20centre%20of%20a%20person's%20face)
