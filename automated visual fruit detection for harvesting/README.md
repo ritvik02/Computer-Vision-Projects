@@ -30,7 +30,7 @@ This along with canny edge detection gave a output with negligible time lag in r
 
 
 ## Method 2 - Pre and post processing techniques + object detection algorithms (deep learning)
-ongoing
+Code will be made public, once the paper is published 
 
 
 ## Deployment
