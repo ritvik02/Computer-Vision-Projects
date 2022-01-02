@@ -1,8 +1,7 @@
 # Computer-Vision-Projects
 This is a repository of the computer vision projects I have worked/working on. Find the detailed explanations or codes for the projects in the respective folder or click on the project title to be directed to the folder.
 
-## [Automated Visual Fruit Detection for Harvesting](https://github.com/ritvik02/Computer-Vision-Projects/tree/main/automated%20visual%20fruit%20detection%20for%20harvesting)   (Ongoing Research Project)
-Under Development
+## [Automated Visual Fruit Detection for Harvesting](https://github.com/ritvik02/Computer-Vision-Projects/tree/main/automated%20visual%20fruit%20detection%20for%20harvesting)   
 
 
 ## [Lane Line Detection](https://github.com/ritvik02/Computer-Vision-Projects/tree/main/Lane%20Line%20Detection)
